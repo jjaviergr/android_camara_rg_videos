@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "I:\\Downloads\\Ud7_VideoCamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\record.png",
+        "source": "I:\\Downloads\\Ud7_VideoCamera\\app\\src\\main\\res\\drawable\\record.png"
+    },
+    {
+        "merged": "I:\\Downloads\\Ud7_VideoCamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stop.png",
+        "source": "I:\\Downloads\\Ud7_VideoCamera\\app\\src\\main\\res\\drawable\\stop.png"
+    },
+    {
+        "merged": "I:\\Downloads\\Ud7_VideoCamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\playld.png",
+        "source": "I:\\Downloads\\Ud7_VideoCamera\\app\\src\\main\\res\\drawable\\playld.png"
+    },
+    {
+        "merged": "I:\\Downloads\\Ud7_VideoCamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play.png",
+        "source": "I:\\Downloads\\Ud7_VideoCamera\\app\\src\\main\\res\\drawable\\play.png"
+    },
+    {
+        "merged": "I:\\Downloads\\Ud7_VideoCamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iconold.png",
+        "source": "I:\\Downloads\\Ud7_VideoCamera\\app\\src\\main\\res\\drawable\\iconold.png"
+    },
+    {
+        "merged": "I:\\Downloads\\Ud7_VideoCamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\recordold.png",
+        "source": "I:\\Downloads\\Ud7_VideoCamera\\app\\src\\main\\res\\drawable\\recordold.png"
+    },
+    {
+        "merged": "I:\\Downloads\\Ud7_VideoCamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "I:\\Downloads\\Ud7_VideoCamera\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "I:\\Downloads\\Ud7_VideoCamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stopold.png",
+        "source": "I:\\Downloads\\Ud7_VideoCamera\\app\\src\\main\\res\\drawable\\stopold.png"
+    }
+]

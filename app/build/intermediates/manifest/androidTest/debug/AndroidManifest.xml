@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.msi.manning.chapter10.VideoCam.test">
+
+    <uses-sdk android:minSdkVersion="8" android:targetSdkVersion="10" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.test.InstrumentationTestRunner"
+                     android:targetPackage="com.msi.manning.chapter10.VideoCam"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for com.msi.manning.chapter10.VideoCam"/>
+</manifest>
